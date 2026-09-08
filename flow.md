@@ -1,4 +1,4 @@
-# TalentTrack — Flow
+# Fettle — Flow
 
 How a request moves through the app, end to end: pages, clicks, API calls, and what happens in the database. Based on `public/index.html`, `server.js`, `db.js`, and `ARCHITECTURE.md`.
 

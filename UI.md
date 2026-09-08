@@ -1,4 +1,4 @@
-# TalentTrack - UI/UX Screen Designs (Phase 1)
+# Fettle - UI/UX Screen Designs (Phase 1)
 **SIH Problem Statement:** ID 26196 (AICTE - Fitness & Sports)
 **Current Status:** Phase 1 (Focus on reliable live squat assessment)
 

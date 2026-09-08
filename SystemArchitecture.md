@@ -2,7 +2,7 @@
 
 ## 1. Document Purpose
 
-This document defines the current system architecture of FitMate AI, including the major application layers, backend components, data flow, persistence model, security boundaries, external integrations, and deployment direction.
+This document defines the current system architecture of Fettle AI, including the major application layers, backend components, data flow, persistence model, security boundaries, external integrations, and deployment direction.
 
 The document is intended to remain synchronized with the implementation. Architectural changes should be reflected here as the codebase evolves.
 
@@ -10,7 +10,7 @@ The document is intended to remain synchronized with the implementation. Archite
 
 ## 2. Architecture Summary
 
-FitMate AI is a context-aware fitness platform designed for students. The system provides personalized micro-workouts, exercise analysis, progress tracking, social competition, and AI-assisted coaching.
+Fettle AI is a context-aware fitness platform designed for students. The system provides personalized micro-workouts, exercise analysis, progress tracking, social competition, and AI-assisted coaching.
 
 The current architecture follows a modular client-server model:
 
@@ -89,22 +89,22 @@ The current implementation prioritizes rapid development and validation. Product
 
 # 4. System Context
 
-The following diagram represents the primary actors and external dependencies surrounding FitMate AI.
+The following diagram represents the primary actors and external dependencies surrounding Fettle AI.
 
 ```mermaid
 flowchart LR
 
     STUDENT["Student"]
 
-    FITMATE["FitMate AI"]
+    Fettle["Fettle AI"]
 
     LLM["External LLM Provider"]
 
-    STUDENT -->|"Uses"| FITMATE
-    FITMATE -->|"Generates coaching response"| LLM
+    STUDENT -->|"Uses"| Fettle
+    Fettle -->|"Generates coaching response"| LLM
 ```
 
-The student interacts with the FitMate AI application through the frontend. The application communicates with the backend for authentication, workouts, exercise analysis, progress, leaderboards, and coaching functionality.
+The student interacts with the Fettle AI application through the frontend. The application communicates with the backend for authentication, workouts, exercise analysis, progress, leaderboards, and coaching functionality.
 
 The backend communicates with the external LLM provider only for AI coaching functionality.
 
@@ -118,7 +118,7 @@ flowchart TB
     STUDENT["Student"]
 
     subgraph CLIENT["Client"]
-        FRONTEND["FitMate AI Frontend"]
+        FRONTEND["Fettle AI Frontend"]
         WEBCAM["Webcam"]
         MEDIAPIPE["MediaPipe Pose Estimation"]
     end
@@ -1001,7 +1001,7 @@ Planned test coverage includes:
 
 | Property | Value |
 |---|---|
-| Project | FitMate AI |
+| Project | Fettle AI |
 | Hackathon | Smart India Hackathon 2026 |
 | Theme | Fitness & Sports |
 | Category | Software |
@@ -1035,7 +1035,7 @@ A short, personalized workout designed to fit within a student's available time.
 
 ### Squad
 
-A group of students participating in FitMate AI's social and competitive functionality.
+A group of students participating in Fettle AI's social and competitive functionality.
 
 ---
 

@@ -1,6 +1,6 @@
-# TalentTrack — Project Roadmap
+# Fittle — Project Roadmap
 
-This roadmap tracks how we're building **TalentTrack** (AI sports talent assessment web app) from scratch as a team. Update the checkboxes as work lands on `main` so anyone opening this file can see exactly what's done, what's in progress, and what's next — no separate status meeting required.
+This roadmap tracks how we're building **Fittle** (AI sports talent assessment web app) from scratch as a team. Update the checkboxes as work lands on `main` so anyone opening this file can see exactly what's done, what's in progress, and what's next — no separate status meeting required.
 
 > **How to use this file**: when you finish a task, check it off in the same PR that ships the work, and link the PR/issue number next to it. Keep it in the repo root so it renders on the GitHub homepage.
 

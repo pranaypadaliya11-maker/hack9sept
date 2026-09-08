@@ -1,4 +1,4 @@
-# FitMate AI — System Architecture
+# Fettle — System Architecture
 
 ## 1. Document Purpose
 

@@ -1,4 +1,4 @@
-# Fittle — Project Roadmap
+# Fettle — Project Roadmap
 
 This roadmap tracks how we're building **Fittle** (AI sports talent assessment web app) from scratch as a team. Update the checkboxes as work lands on `main` so anyone opening this file can see exactly what's done, what's in progress, and what's next — no separate status meeting required.
 

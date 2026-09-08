@@ -146,7 +146,7 @@ server.js: route('POST', '/api/ask')
 
 ---
 
-## 6. Talent tracker (self-reported combine log)
+## 6. Fettle (self-reported combine log)
 
 Separate from the camera pipeline — for measurements a single webcam can't reliably take (sprint splits, jump distance).
 

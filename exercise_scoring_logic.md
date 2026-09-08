@@ -1,4 +1,4 @@
-# TalentTrack Exercise Scoring Logic
+# Fettle Exercise Scoring Logic
 
 > **Project status: Phase 1 design specification.**  
 > This document defines the proposed logic for TalentTrack's first working prototype. It is not a claim that the live assessment has already been implemented or clinically validated.

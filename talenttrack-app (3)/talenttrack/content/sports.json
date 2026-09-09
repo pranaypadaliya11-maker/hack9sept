@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Football",
+    "rules": "11 players per side, score by getting the ball into the opponent's goal; outfield players may not use hands.",
+    "fitness": "Endurance, agility, speed, coordination",
+    "tips": "Build an aerobic base first, then add short sprint intervals.",
+    "mistakes": "Poor first touch under pressure; ball-watching instead of scanning the field.",
+    "equipment": "Boots, shin guards, ball",
+    "positions": "Goalkeeper, defenders, midfielders, forwards"
+  },
+  {
+    "name": "Cricket",
+    "rules": "Two teams take turns batting and bowling; the batting side scores runs, the bowling side tries to dismiss batters within their overs.",
+    "fitness": "Hand-eye coordination, rotational power, short sprint speed, reaction time",
+    "tips": "Throwing and catching drills build the arm strength and coordination the game demands before focusing on batting technique.",
+    "mistakes": "Playing across the line of the ball; poor footwork when bowling, leading to no-balls.",
+    "equipment": "Bat, ball, pads, gloves, helmet, stumps",
+    "positions": "Batter, bowler, wicketkeeper, various fielding positions"
+  },
+  {
+    "name": "Basketball",
+    "rules": "5 players per side, score by shooting the ball through the opponent's hoop within a shot clock.",
+    "fitness": "Explosiveness, agility, coordination, endurance",
+    "tips": "Practice footwork drills before adding shooting volume.",
+    "mistakes": "Over-dribbling instead of moving the ball; poor defensive stance.",
+    "equipment": "Basketball, court, hoop",
+    "positions": "Point guard, shooting guard, small forward, power forward, center"
+  },
+  {
+    "name": "Volleyball",
+    "rules": "Two teams of 6 hit the ball over a net, aiming to ground it on the opponent's side within 3 touches per side.",
+    "fitness": "Vertical jump, shoulder strength, agility, reaction speed",
+    "tips": "Passing (the forearm dig) is the foundation skill — practice it far more than spiking early on.",
+    "mistakes": "Contacting the ball with locked, straight arms during a dig; late footwork before jumping to hit.",
+    "equipment": "Volleyball, net, court",
+    "positions": "Setter, outside hitter, middle blocker, opposite, libero"
+  },
+  {
+    "name": "Athletics (Track & Field)",
+    "rules": "Individual timed or measured events — sprints, distance runs, jumps and throws.",
+    "fitness": "Speed, explosiveness, strength, mobility",
+    "tips": "Technique work (start, stride) matters as much as raw fitness early on.",
+    "mistakes": "Overstriding in sprints; neglecting recovery between sessions.",
+    "equipment": "Spikes, starting blocks (sprints)",
+    "positions": "Individual event specialist"
+  },
+  {
+    "name": "Badminton",
+    "rules": "Singles or doubles, score points by landing the shuttle in the opponent's court.",
+    "fitness": "Agility, reaction speed, coordination, flexibility",
+    "tips": "Shadow footwork drills build court coverage faster than hitting alone.",
+    "mistakes": "Standing flat-footed between shots; weak wrist/grip control.",
+    "equipment": "Racket, shuttlecock, court",
+    "positions": "Singles or doubles pairing roles"
+  },
+  {
+    "name": "Hockey",
+    "rules": "11 players per side use sticks to hit a ball into the opponent's goal; the ball may not be touched with hands or feet.",
+    "fitness": "Endurance, agility, low-stance strength, hand-eye coordination",
+    "tips": "Practicing in the low athletic stance used for stick control builds the specific leg endurance the game needs.",
+    "mistakes": "Standing too upright, losing close ball control; lifting the stick above shoulder height (a foul).",
+    "equipment": "Stick, ball, shin guards, mouthguard",
+    "positions": "Goalkeeper, defenders, midfielders, forwards"
+  },
+  {
+    "name": "Wrestling",
+    "rules": "Score points by controlling, taking down, or pinning an opponent within weight-class rules.",
+    "fitness": "Strength, explosiveness, endurance, flexibility",
+    "tips": "Grip and neck strength are as important as overall body strength.",
+    "mistakes": "Neglecting conditioning for match-length endurance; poor stance.",
+    "equipment": "Singlet, mat",
+    "positions": "Weight-class based, no fixed positions"
+  },
+  {
+    "name": "Boxing",
+    "rules": "Two competitors score points by landing clean punches within a weight class, over a set number of rounds.",
+    "fitness": "Rotational power, footwork endurance, reaction speed, core strength",
+    "tips": "Footwork and defense are trained before power punching in most beginner programs — control comes first.",
+    "mistakes": "Dropping hands after throwing a punch; leaning back instead of rotating out of range.",
+    "equipment": "Gloves, hand wraps, mouthguard, headgear (sparring)",
+    "positions": "Weight-class based, no fixed positions"
+  },
+  {
+    "name": "Swimming",
+    "rules": "Individual or relay races over a fixed distance in a pool, timed to the hundredth of a second.",
+    "fitness": "Cardiovascular endurance, shoulder and core strength, flexibility",
+    "tips": "Stroke technique and breathing efficiency usually matter more for early progress than raw conditioning.",
+    "mistakes": "Lifting the head too high to breathe, which drags the hips down and slows the stroke.",
+    "equipment": "Swimsuit, cap, goggles",
+    "positions": "Individual event or relay leg (freestyle, backstroke, breaststroke, butterfly)"
+  },
+  {
+    "name": "Tennis",
+    "rules": "Singles or doubles, players score points by hitting the ball over the net so the opponent can't return it in play.",
+    "fitness": "Agility, rotational power, endurance, reaction speed",
+    "tips": "The split-step (a small hop timed to the opponent's contact) is what makes fast court coverage possible.",
+    "mistakes": "Standing flat-footed at contact; using only the arm to hit instead of rotating the hips and shoulders.",
+    "equipment": "Racket, balls, court",
+    "positions": "Singles or doubles pairing roles"
+  },
+  {
+    "name": "Table Tennis",
+    "rules": "Players hit a lightweight ball over a small net on a table, scoring when the opponent fails to return it legally.",
+    "fitness": "Reaction speed, wrist/forearm coordination, short-range footwork",
+    "tips": "Consistent, controlled rallying builds more long-term skill than swinging hard for winners early on.",
+    "mistakes": "Gripping the paddle too tightly, which kills touch and control on soft shots.",
+    "equipment": "Paddle, ball, table",
+    "positions": "Singles or doubles pairing roles"
+  }
+]

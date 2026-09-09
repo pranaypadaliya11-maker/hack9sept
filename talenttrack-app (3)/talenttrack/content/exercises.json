@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Squat",
+    "category": ["Calisthenics", "Athletic"],
+    "muscles": "Quadriceps, glutes, hamstrings, core",
+    "technique": "Feet shoulder-width, chest upright, knees track over toes, hips back and down.",
+    "mistakes": "Knees caving inward, heels lifting, insufficient depth.",
+    "beginner": "Bodyweight squat to a chair.",
+    "advanced": "Loaded back squat or jump squat.",
+    "aiChecks": ["Depth (knee angle)", "Knee alignment over ankle", "Torso lean", "Tempo consistency"]
+  },
+  {
+    "name": "Push-up",
+    "category": ["Calisthenics"],
+    "muscles": "Chest, shoulders, triceps, core",
+    "technique": "Straight line from head to heels, elbows ~45° from torso, full range of motion.",
+    "mistakes": "Sagging hips, flaring elbows, partial range.",
+    "beginner": "Incline or knee push-up.",
+    "advanced": "Deficit or weighted push-up.",
+    "aiChecks": ["Elbow bend depth", "Hip sag / body-line straightness", "Tempo consistency"]
+  },
+  {
+    "name": "Lunge",
+    "category": ["Calisthenics", "Athletic"],
+    "muscles": "Quadriceps, glutes, hamstrings, core, balance/stabilizers",
+    "technique": "Step forward (or hold split stance), lower until both knees are near 90°, front knee tracks over the ankle, torso stays upright.",
+    "mistakes": "Front knee traveling past the toes, leaning the torso far forward, shallow depth, wobbling for balance.",
+    "beginner": "Static split-squat holds instead of stepping, using a wall or chair for balance.",
+    "advanced": "Walking lunges or reverse lunges with added load.",
+    "aiChecks": ["Front knee depth", "Front knee tracking over ankle", "Torso lean"]
+  },
+  {
+    "name": "Vertical Jump",
+    "category": ["Athletic"],
+    "muscles": "Glutes, quadriceps, calves, core",
+    "technique": "Quick countermovement dip, drive arms up, extend hips-knees-ankles fully at takeoff, land softly.",
+    "mistakes": "Shallow countermovement, stiff landings, uneven takeoff.",
+    "beginner": "Practice the landing mechanics before maximizing jump height.",
+    "advanced": "Add approach steps for a run-up jump.",
+    "aiChecks": ["Estimated jump height (camera-based)", "Landing softness", "Takeoff consistency across reps"]
+  },
+  {
+    "name": "Plank",
+    "category": ["Calisthenics"],
+    "muscles": "Core, shoulders, glutes",
+    "technique": "Straight line from head to heels, brace the core, neutral neck.",
+    "mistakes": "Hips sagging or piking, holding breath.",
+    "beginner": "Shorter holds or knee plank.",
+    "advanced": "Longer holds or added instability.",
+    "aiChecks": ["Body-line straightness over hold duration", "Total hold time"]
+  },
+  {
+    "name": "Jumping Jack",
+    "category": ["Calisthenics", "Athletic"],
+    "muscles": "Full body, cardiovascular system",
+    "technique": "Land softly, knees slightly bent, full arm extension overhead.",
+    "mistakes": "Locking knees on landing, shallow arm range.",
+    "beginner": "Half-jacks (step out) at a slower pace.",
+    "advanced": "Add a squat at the bottom.",
+    "aiChecks": ["Full arm range overhead", "Full leg spread", "Rep cadence consistency"]
+  },
+  {
+    "name": "Pull-up",
+    "category": ["Calisthenics", "Bulking"],
+    "muscles": "Lats, biceps, upper back, core",
+    "technique": "Full hang start, pull until chin clears the bar, control the descent to a full hang.",
+    "mistakes": "Kipping/swinging for momentum, only partial range at the top or bottom.",
+    "beginner": "Band-assisted pull-ups or negative-only reps (jump up, lower slowly).",
+    "advanced": "Weighted pull-ups or wide-grip variations.",
+    "aiChecks": []
+  },
+  {
+    "name": "Dip",
+    "category": ["Calisthenics", "Bulking"],
+    "muscles": "Triceps, chest, shoulders",
+    "technique": "Lower with control until shoulders are near elbow height, press back up without flaring elbows excessively.",
+    "mistakes": "Going too deep and straining the shoulder joint, leaning too far forward (shifts to chest-only) or staying upright (shifts to triceps-only) without intent.",
+    "beginner": "Bench dips with feet on the floor, knees bent.",
+    "advanced": "Weighted dips.",
+    "aiChecks": []
+  },
+  {
+    "name": "Burpee",
+    "category": ["Calisthenics", "Athletic"],
+    "muscles": "Full body, cardiovascular system",
+    "technique": "Drop to a plank, chest to floor, jump feet back to hands, explode upward into a jump.",
+    "mistakes": "Sagging hips in the plank phase, skipping the full chest-to-floor lowering, no full hip extension at the top.",
+    "beginner": "Step feet back one at a time instead of jumping; skip the push-up phase.",
+    "advanced": "Add a tuck jump or a push-up at the bottom.",
+    "aiChecks": []
+  },
+  {
+    "name": "Mountain Climber",
+    "category": ["Calisthenics", "Athletic"],
+    "muscles": "Core, hip flexors, shoulders, cardiovascular system",
+    "technique": "Plank position, drive knees alternately toward the chest at speed while keeping hips level.",
+    "mistakes": "Hips rising too high (piking), losing the plank line, feet not fully returning back.",
+    "beginner": "Slow, controlled reps rather than fast ones.",
+    "advanced": "Increase speed or add a slider/gliding disc.",
+    "aiChecks": []
+  },
+  {
+    "name": "Glute Bridge",
+    "category": ["Calisthenics"],
+    "muscles": "Glutes, hamstrings, lower back, core",
+    "technique": "Lie on your back, knees bent, drive hips up until the body forms a straight line from shoulders to knees, squeeze at the top.",
+    "mistakes": "Overarching the lower back instead of using the glutes, not reaching full hip extension.",
+    "beginner": "Smaller range of motion, focus on the squeeze at the top.",
+    "advanced": "Single-leg glute bridge or add a barbell (hip thrust).",
+    "aiChecks": []
+  },
+  {
+    "name": "Superman",
+    "category": ["Calisthenics"],
+    "muscles": "Lower back, glutes, shoulders",
+    "technique": "Lie face down, simultaneously lift arms, chest and legs a few inches off the floor, hold briefly, lower with control.",
+    "mistakes": "Yanking upward instead of a controlled lift, holding the breath.",
+    "beginner": "Lift arms and legs on alternating sides instead of all at once.",
+    "advanced": "Add a longer hold at the top.",
+    "aiChecks": []
+  },
+  {
+    "name": "Deadlift",
+    "category": ["Bulking"],
+    "muscles": "Hamstrings, glutes, lower back, traps, grip",
+    "technique": "Bar over midfoot, flat back, hinge at the hips, drive through the floor to stand tall, hips and shoulders rising together.",
+    "mistakes": "Rounding the lower back, letting the bar drift away from the shins, hips rising faster than the chest.",
+    "beginner": "Romanian deadlift with light weight or a kettlebell to learn the hip hinge first.",
+    "advanced": "Conventional or sumo deadlift with progressive loading.",
+    "aiChecks": []
+  },
+  {
+    "name": "Bench Press",
+    "category": ["Bulking"],
+    "muscles": "Chest, shoulders, triceps",
+    "technique": "Shoulder blades retracted, controlled bar path to the mid-chest, press back up in a slight arc without bouncing the bar.",
+    "mistakes": "Bouncing the bar off the chest, flaring elbows to 90°, lifting hips off the bench.",
+    "beginner": "Push-ups or a light dumbbell press to groove the pressing pattern.",
+    "advanced": "Add pause reps or incline variations.",
+    "aiChecks": []
+  },
+  {
+    "name": "Overhead Press",
+    "category": ["Bulking"],
+    "muscles": "Shoulders, triceps, upper chest, core",
+    "technique": "Bar starts at the collarbone, press straight overhead while bracing the core, avoid excessive lower-back arch.",
+    "mistakes": "Pressing the bar forward instead of straight up, arching the lower back to gain range.",
+    "beginner": "Seated dumbbell press for more stability while learning the pattern.",
+    "advanced": "Standing barbell press with strict form, or push press for more load.",
+    "aiChecks": []
+  },
+  {
+    "name": "Barbell Row",
+    "category": ["Bulking"],
+    "muscles": "Upper back, lats, biceps, rear shoulders",
+    "technique": "Hinge forward with a flat back, pull the bar to the lower ribs, squeeze the shoulder blades together at the top.",
+    "mistakes": "Standing too upright (turns it into a shrug), using momentum/jerking the weight up.",
+    "beginner": "Single-arm dumbbell row with support from a bench.",
+    "advanced": "Pendlay row (bar resets on the floor each rep).",
+    "aiChecks": []
+  },
+  {
+    "name": "Bicep Curl",
+    "category": ["Bulking"],
+    "muscles": "Biceps, forearms",
+    "technique": "Elbows pinned to the sides, curl through a full range without swinging the torso.",
+    "mistakes": "Using body momentum to swing the weight up, only completing a partial range.",
+    "beginner": "Lighter dumbbells with slow, controlled tempo.",
+    "advanced": "Add pause reps at the top or slow eccentrics.",
+    "aiChecks": []
+  },
+  {
+    "name": "Box Jump",
+    "category": ["Athletic"],
+    "muscles": "Glutes, quadriceps, calves",
+    "technique": "Countermovement dip, drive arms up, land softly on the box with knees slightly bent, step down (don't jump down).",
+    "mistakes": "Jumping back down off the box (high impact risk), landing with stiff knees.",
+    "beginner": "Start with a low box or step and focus on a soft landing.",
+    "advanced": "Increase box height progressively.",
+    "aiChecks": []
+  },
+  {
+    "name": "Standing Broad Jump",
+    "category": ["Athletic"],
+    "muscles": "Glutes, quadriceps, calves, core",
+    "technique": "Swing arms back then forward explosively while extending hips-knees-ankles to jump as far forward as possible, land balanced on both feet.",
+    "mistakes": "Jumping upward instead of forward, landing off-balance or falling backward.",
+    "beginner": "Focus on a controlled, balanced landing before maximizing distance.",
+    "advanced": "Chain multiple broad jumps together for a distance series.",
+    "aiChecks": []
+  },
+  {
+    "name": "High Knees",
+    "category": ["Calisthenics", "Athletic"],
+    "muscles": "Hip flexors, quadriceps, calves, cardiovascular system",
+    "technique": "Drive knees up toward hip height rapidly while staying on the balls of the feet, keep the torso tall.",
+    "mistakes": "Leaning back, knees not reaching hip height, slow/lazy cadence.",
+    "beginner": "Slower marching version to learn the knee drive.",
+    "advanced": "Increase cadence or add it into interval sprints.",
+    "aiChecks": []
+  },
+  {
+    "name": "Russian Twist",
+    "category": ["Calisthenics"],
+    "muscles": "Obliques, core",
+    "technique": "Seated with torso leaned back slightly, feet lifted or grounded, rotate the torso side to side under control.",
+    "mistakes": "Rotating only the arms instead of the torso, rounding the lower back.",
+    "beginner": "Keep feet on the floor for more stability.",
+    "advanced": "Add a weight plate or medicine ball, lift the feet off the floor.",
+    "aiChecks": []
+  }
+]
